@@ -1,15 +1,12 @@
-<img width="1254" height="1254" alt="yug" src="https://github.com/user-attachments/assets/402e90a5-4e42-4e32-9fd9-7b5e64c3ad26" />
-
-
-
-
-
 <p align="center">
-  <img src="PHOTO_URL" width="300">
+  <img 
+    src="https://github.com/user-attachments/assets/48a3e28e-5957-426d-a4af-7a0027df11ae"
+    alt="Yug"
+    width="220"
+  />
 </p>
 
-
-<p align="center">  <img width="1254" height="1254" alt="yug" src="https://github.com/user-attachments/assets/402e90a5-4e42-4e32-9fd9-7b5e64c3ad26" />    </p>
+<p align="center">      </p>
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
 
