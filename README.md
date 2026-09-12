@@ -1,11 +1,10 @@
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/bad8c514-14c1-47a7-8187-df2ef0600384"
-    alt="Yug"
+    src="https://github.com/user-attachments/assets/96415932-edcd-4bd8-9198-b897ff61c06d"
+    alt="gggg"
     width="300"
   />
 </p>
-
 
 
 
