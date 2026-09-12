@@ -1,10 +1,9 @@
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/48a3e28e-5957-426d-a4af-7a0027df11ae"
-    alt="Yug"
-    width="220"
-  />
-</p>
+<img width="1254" height="1254" alt="WhatsApp Image 2026-09-12 at 17 02 07" src="https://github.com/user-attachments/assets/a874c24a-d9f8-4664-8ab9-eb897eeb8a1c" />
+
+
+
+
+
 
 <p align="center">      </p>
 
